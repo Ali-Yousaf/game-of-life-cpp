@@ -124,6 +124,7 @@ int main()
                 YELLOW
             );
         }
+        
         else if (currentScreen == GAME)
         {
             simulation.Draw();
